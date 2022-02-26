@@ -2,7 +2,7 @@ from gtts import gTTS
 import os
 
 
-mytxt="Hello guys now u can here my voice"
+mytxt=input("Type the text you want to listen in voice:")
 
 language='en'
 
